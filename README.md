@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 📝 I regularly read articles on [DevOps](DevOps)
+- 📝 I regularly reads articles on [DevOps](DevOps)
 
 - 📫 How to reach me **arjuncherott@gmail.com**
 
