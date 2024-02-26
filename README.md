@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">A passionate Junior System Engineer</h3>
+<h3 align="center">A passionate Tech Support Engineer</h3>
 
 - 🔭 I’m currently working as **Tech support**
 
